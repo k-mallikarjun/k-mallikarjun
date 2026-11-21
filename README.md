@@ -14,21 +14,21 @@
 
 ---
 
-## `> hello_world`
+## `> about`
 
-Hi, I'm **Mallikarjun** - a full stack engineer who turns complex business problems into secure, scalable, production-grade software.
+I'm **Mallikarjun Kotupalli**, a Full Stack Engineer specializing in cloud-native platforms and applied AI. I design and deliver secure, scalable, production-grade software, from user-facing React and TypeScript applications to Java and Spring Boot microservices running on AWS, Azure and GCP.
 
-I work across the whole stack: **Java and Spring Boot** microservices, **React and TypeScript** interfaces, and **cloud-native delivery** on AWS, Azure and GCP. Increasingly, I build with **AI** - LLM-powered features, **RAG** pipelines, **agentic workflows** and **MCP** tool integrations, wrapped in the guardrails, validation and testing that production systems demand.
+I increasingly build AI-enabled systems: LLM integrations, retrieval-augmented generation (RAG), agentic workflows and MCP tooling, implemented with the guardrails, validation and automated testing that enterprise environments require.
 
-**Domains:** healthcare, financial services, telecommunications, banking, insurance and e-commerce.
+**Industry experience:** Healthcare | Financial Services | Banking | Insurance | Telecommunications | E-Commerce
 
-**What you can expect from my work**
+### Engineering principles
 
-- Clean, well-tested code and clear API contracts
-- Security-first design: OAuth2, JWT, SSO, encryption and auditability
-- Event-driven, resilient services that scale and stay observable
-- Automated pipelines from commit to production
-- AI that is grounded, validated and measurable - not just a demo
+- **Reliability:** resilient, event-driven services that scale and remain observable
+- **Security:** OAuth2, JWT, SSO, encryption and auditability designed in from the start
+- **Quality:** clean architecture, clear API contracts and comprehensive automated testing
+- **Delivery:** automated CI/CD pipelines and infrastructure as code from commit to production
+- **Responsible AI:** solutions that are grounded, validated and measurable
 
 ## `> fullstack --engineering`
 
